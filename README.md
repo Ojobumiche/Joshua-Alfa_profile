@@ -2,7 +2,7 @@
 
 💻 **Backend Developer Intern | Software Engineering Student | Java & Python Enthusiast**  
 
-📍 Willing to Relocate to Maidstone, Kent  
+📍 Willing to Relocate to Maidstone, Kent, Canada, Europe, Australia. 
 📞 +2348160023762 | ✉️ bumiche@gmail.com  
 
 ---
@@ -65,7 +65,7 @@ CRUD-based database system for managing student records securely.
 ---
 
 ## 📫 Contact Me  
-- 📍 Location: Willing to Relocate to Maidstone, Kent  
+- 📍 Location: Willing to Relocate to Maidstone, Kent, Canada, Europe, Australia.  
 - 📞 Phone: +2348160023762  
 - ✉️ Email: bumiche@gmail.com  
 - 🌐 [GitHub Profile](https://github.com/Ojobumiche)  
