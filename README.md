@@ -1,71 +1,90 @@
-# 👋 Hi, I'm Joshua Monday  
+Hi, I'm Joshua 👋
 
-💻 **Backend Developer Intern | Software Engineering Student | Java & Python Enthusiast**  
+🚀 Python Backend Developer | AI Systems Contributor  
 
-📍 Willing to Relocate to Maidstone, Kent, Canada, Europe, Australia. 
-📞 +2348160023762 | ✉️ bumiche@gmail.com  
+I build scalable backend systems, REST APIs, and AI-powered applications.  
+Focused on writing clean, efficient code and solving real-world engineering problems.
 
----
+___________________________________________________________________________________________________________________________________________________________
 
-## 🚀 About Me  
-Motivated and detail-oriented **Backend Developer ** with strong foundations in computer science and hands-on experience building backend systems, APIs, and database-driven applications. Skilled in **Java, Python, SQL, and backend frameworks** with additional knowledge of front-end technologies for full-stack collaboration. Passionate about problem-solving and developing scalable applications.  
+🔧 Tech Stack
+- Languages: Python, JavaScript, Java  
+- Backend: Django, Flask, REST APIs, MVC Architecture  
+- Frontend: React.js (integration)  
+- Databases: PostgreSQL, MySQL, SQLite  
+- Tools: Git, GitHub, Postman, Docker (basic)  
+- AI/Cloud: OpenAI API, IBM Cloud (fundamentals)  
 
----
+__________________________________________________________________________________________________________________________________________________________________
 
-## 🛠️ Skills  
-- **Programming:** Java, Python, JavaScript (Node.js basics)  
-- **Backend Development:** REST APIs, Authentication, MVC Architecture, CRUD Operations  
-- **Frameworks & Tools:** Django, Flask, Spring Boot, Express.js  
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
-- **Version Control:** Git, GitHub, Agile methodology  
-- **Other Skills:** Unit testing, Debugging, Deployment (Heroku/Netlify), Cloud basics (IBM)  
+ 📌 Featured Projects
 
----
+🔹 AI Code Reviewer 
+AI-powered tool that analyzes Python code, detects issues, suggests improvements, and provides optimized refactored versions using LLMs.
 
-## 📂 Projects  
+🔹 School Management System (Django + React)
+Full-stack application for managing students, payments, and classes.  
+- Built RESTful APIs with Django  
+- Integrated frontend with React  
+- Implemented error handling and data validation  
 
-### 🔹 [Online Chat Application (Java & Sockets)](https://github.com/Ojobumiche/online-chatApplication.git)  
-Multi-user chat system with client-server architecture supporting unique user IDs and message broadcasting.  
+🔹 AI Proposal Generator (Streamlit + OpenAI)
+AI tool that generates high-quality freelance proposals dynamically.  
+- Integrated OpenAI API for content generation  
+- Designed user-friendly interface with export features  
 
-### 🔹 [Java E-Commerce System (Online Store)](https://github.com/Ojobumiche/Java-E-commerce-System.git)  
-Backend system for an e-commerce platform featuring product management, shopping cart, and order processing.  
+_______________________________________________________________________________________________________________________________________
 
-### 🔹 [Student Management System App (Java, GUI + Backend)](https://github.com/Ojobumiche/StudentManagentSystem-GUI)  
-Java desktop application with backend database operations and GUI for seamless data management.  
+🧠 About Me
+Backend Developer with strong foundations in computer science and hands-on experience building APIs and database-driven systems.  
+Experienced in designing scalable architectures, debugging complex issues, and integrating AI into real-world applications.  
 
-### 🔹 Weather App (Java + OpenWeatherMap API)  
-Real-time API integration with JavaFX interface and backend history tracking.  
+I thrive in remote environments and enjoy solving challenging engineering problems.
 
-### 🔹 Student Management System (Python & SQLite)  
-CRUD-based database system for managing student records securely.  
+________________________________________________________________________________________________________________________________________________
 
----
+🛠️ Core Skills
+- Backend Development & API Design  
+- Data Structures & Algorithms  
+- Debugging & Performance Optimization  
+- AI Integration & Prompt Engineering  
+- Version Control & Collaborative Development  
 
-## 🎓 Education  
-- 🎓 **Associate Degree in Computer Science** (2023 – 2026), *University of the People, USA*  
-- 🎓 **Certificate in Software Engineering** (2024), *ALX – African Software Engineering Bootcamp*  
-- ☁️ **Certificate in Introduction to Cloud Computing** (2024), *IBM SkillBuild*  
+____________________________________________________________________________________________________________________________________________________
 
----
+ 📂 Additional Projects
+🔹 [Online Chat Application (Java & Sockets)](https://github.com/Ojobumiche/online-chatApplication.git)  
+  Real-time multi-user chat system with client-server architecture and message broadcasting  
 
-## 📊 GitHub Stats  
+🔹 [Java E-Commerce System](https://github.com/Ojobumiche/Java-E-commerce-System.git)  
+  Backend system with product management, cart, and order processing  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ojobumiche&color=blue)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ojobumiche&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojobumiche&layout=compact&theme=radical)  
+🔹 [Student Management System (Java GUI)](https://github.com/Ojobumiche/StudentManagentSystem-GUI)  
+  Desktop application with GUI and database integration  
 
----
+🔹 Weather App (Java + API Integration)  
+  Real-time weather tracking with JavaFX and search history  
 
-## 📌 Pinned Projects  
+_______________________________________________________________________________________________________________________________________________________
 
-➡️ [Online Chat Application](https://github.com/Ojobumiche/online-chatApplication.git)  
-➡️ [Java E-Commerce System](https://github.com/Ojobumiche/Java-E-commerce-System.git)  
-➡️ [Student Management System App](https://github.com/Ojobumiche/StudentManagentSystem-GUI)  
+🎓 Education & Certifications
+🎓 Associate Degree in Computer Science (2023 – 2026) — University of the People  
+🎓 Certificate in Software Engineering — ALX  
+☁️ Generative AI & Cloud Computing — IBM SkillBuild  
 
----
+___________________________________________________________________________________________________________________________________________________________
 
-## 📫 Contact Me  
-- 📍 Location: Willing to Relocate to Maidstone, Kent, Canada, Europe, Australia.  
-- 📞 Phone: +2348160023762  
+ 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ojobumiche&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojobumiche&layout=compact)
+
+_________________________________________________________________________________________________________________________________________________________
+
+🌍 Open to Opportunities
+Available for remote Python / Backend / AI-related roles.
+
+_____________________________________________________________________________________________________________________________________________________________
+
+ 📫 Contact
 - ✉️ Email: bumiche@gmail.com  
-- 🌐 [GitHub Profile](https://github.com/Ojobumiche)  
+- 🌐 GitHub: https://github.com/Ojobumiche  
