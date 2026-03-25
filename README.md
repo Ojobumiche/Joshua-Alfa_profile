@@ -20,10 +20,10 @@ ________________________________________________________________________________
  📌 Featured Projects
 
 🔹 AI Code Reviewer 
-AI-powered tool that analyzes Python code, detects issues, suggests improvements, and provides optimized refactored versions using LLMs.
+ AI-powered tool that analyzes Python code, detects issues, suggests improvements, and provides optimized refactored versions using LLMs.
 
 🔹 School Management System (Django + React)
-Full-stack application for managing students, payments, and classes.  
+ Full-stack application for managing students, payments, and classes.  
 - Built RESTful APIs with Django  
 - Integrated frontend with React  
 - Implemented error handling and data validation  
@@ -75,8 +75,8 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________
 
  📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ojobumiche&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojobumiche&layout=compact)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ojobumiche&show_icons=true&theme=default)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojobumiche&layout=compact)
 
 _________________________________________________________________________________________________________________________________________________________
 
@@ -86,5 +86,5 @@ Available for remote Python / Backend / AI-related roles.
 _____________________________________________________________________________________________________________________________________________________________
 
  📫 Contact
-- ✉️ Email: bumiche@gmail.com  
-- 🌐 GitHub: https://github.com/Ojobumiche  
+✉️ Email: bumiche@gmail.com  
+🌐 GitHub: https://github.com/Ojobumiche  
