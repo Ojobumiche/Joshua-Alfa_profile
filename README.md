@@ -31,7 +31,10 @@ ________________________________________________________________________________
 🔹 AI Proposal Generator (Streamlit + OpenAI)
 AI tool that generates high-quality freelance proposals dynamically.  
 - Integrated OpenAI API for content generation  
-- Designed user-friendly interface with export features  
+- Designed user-friendly interface with export features
+  
+* Online Chat Application – Multi-user chat system in Java
+*Java E-Commerce System – Backend system for online store management
 
 _______________________________________________________________________________________________________________________________________
 
